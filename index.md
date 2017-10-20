@@ -2,7 +2,7 @@
 
 
 
-[GitHub](http://github.com) and ![github] (/images/app1.png)
+[GitHub](http://github.com) and ![github] (/images/app1.jpg)
 
 ## Welcome to GitHub Pages
 
