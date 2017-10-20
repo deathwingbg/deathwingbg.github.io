@@ -1,9 +1,16 @@
+
+[Android] (https://github.com/deathwingbg/test2) and ![image] (http://assets3.bigthink.com/system/idea_thumbnails/51038/size_1024/yolo.jpg?1370451473)
+
+http://github.com - automatic!
+[GitHub](http://github.com)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/deathwingbg/deathwingbg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+[Android] (https://github.com/deathwingbg/test2) and ![image] (http://assets3.bigthink.com/system/idea_thumbnails/51038/size_1024/yolo.jpg?1370451473)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
