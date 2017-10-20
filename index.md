@@ -2,7 +2,7 @@
 
 
 
-[TEST](https://github.com/deathwingbg/test) and ![[GitHub](http://github.com)](/images/app.jpg)
+[TEST](https://github.com/deathwingbg/test) and ![(https://github.com/deathwingbg/test)](/images/app.jpg)
 
 ## Welcome to GitHub Pages
 
