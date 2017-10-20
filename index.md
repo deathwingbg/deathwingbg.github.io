@@ -2,7 +2,7 @@
 [Android] (https://github.com/deathwingbg/test2) and ![image] (http://assets3.bigthink.com/system/idea_thumbnails/51038/size_1024/yolo.jpg?1370451473)
 
 http://github.com - automatic!
-[GitHub](http://github.com)
+[GitHub](http://github.com) ![github] (/images/logo.png)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/deathwingbg/deathwingbg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
